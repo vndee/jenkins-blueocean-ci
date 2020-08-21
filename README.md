@@ -1,2 +1,1 @@
-# jenkins-blueocean-ci
-Starter script for Jenkins/Blueocean CI
+Starter script for Jenkins CI - Blueocean with docker and docker-compose available inside.
